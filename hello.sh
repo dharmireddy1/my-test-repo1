@@ -8,5 +8,6 @@ fi
 
 echo "Hello, $1! Welcome to Bash scripting 🚀"
 
+echo "Hello, $1! Welcome to new branch Bash scripting  ~@"
 
 
